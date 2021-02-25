@@ -7,3 +7,4 @@ Creating a new branch is quick and simple.
 because the black call slaves everyday.
 Github master branch was modified by main. 
 alarm module develop.
+shchedule module develop.
